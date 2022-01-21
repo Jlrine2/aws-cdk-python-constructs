@@ -5,6 +5,11 @@ I created this project to contain common patters CDK Constructs, for use in othe
 This is something I maintain to make side projects easier, it's not meant to be reliable or robust but instead 
 to alleviate the challenges with provisioning infrastructure for small personal projects. use at your own risk.
 
+## Install
+This project is not hosted on PyPi but can be installed using pip with
+```shell
+pip instal git+https://github.com/Jlrine2/aws-cdk-python-constructs.git
+```
 
 ## Usage
 
